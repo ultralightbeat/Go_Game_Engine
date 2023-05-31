@@ -12,12 +12,18 @@ Go_Game_Engine - это движок для Sabaki GUI(https://github.com/Sabaki
 Представляю вам некоторые фотографии интерфейса и способ установки движка
 
 Здесь, в терминале графического интрефейса нужно выбрать Manage Engine
+
 ![Скриншот установки](https://github.com/ultralightbeat/Go_Game_Engine/blob/master/images/engine_dowload_1.png)
+
 Далее в меню нужно указать путь к испольнуемому файлу и необходимые аргументы как показано на скриншоте(путь нужно указывать на место на диске где у вас распакован скачанный архив) 
+
 ![Скриншот определения пути и аргументов](https://github.com/ultralightbeat/Go_Game_Engine/blob/master/images/engine_dowload.png)
+
 После добавления движка его следует выбрать в меню терминала и определить какими камнями компьютер будет играть
+
 ![Скриншот выбора какими камнями будет играть движок](https://github.com/ultralightbeat/Go_Game_Engine/blob/master/images/engine_dowload.png)
 Ниже представлена скришот игрового поля в процессе игры
+
 ![Скриншот игрового поля](https://github.com/ultralightbeat/Go_Game_Engine/blob/master/images/ban.png)
 
 # Особенности движка
