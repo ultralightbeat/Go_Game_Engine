@@ -650,7 +650,7 @@ def genmove(color):
         # делаем ход
         set_stone(best_move, color)
 
-        # подтвердите перемещение
+        #  подтвердите перемещение
         count(best_move, color)
 
         # подсчет свобод
