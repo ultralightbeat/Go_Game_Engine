@@ -10,6 +10,7 @@ Go_Game_Engine - это движок для Sabaki GUI(https://github.com/Sabaki
 Благодаря графическому интерфейсу Sabaki я могу продемонстрировать какую логику смог прописать для своего движка.
 По ссылке вы можете ознакомиться с геймплеем игры(https://rutube.ru/video/6b2540eac14b974a4372b476dd5cd350/)
 Представляю вам некоторые фотографии интерфейса и способ установки движка
+![Скриншот игрового поля](https://github.com/ultralightbeat/Go_Game_Engine/blob/master/images/ban.png)
 
 
 
